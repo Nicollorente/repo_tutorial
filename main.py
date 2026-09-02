@@ -1,4 +1,4 @@
-print("Hola mundo")
+print("Hola mundo desde main")
 
 numero = int(input("Ingrese un numero: "))
 numero2 = int(input("Ingrese otro numero: "))
